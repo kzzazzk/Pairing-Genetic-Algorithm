@@ -1,7 +1,5 @@
 # Pairing Genetic Algorithm🧬
 
-[![Java](https://img.shields.io/badge/Java-8%2B-brightgreen.svg)](https://www.java.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 This is a basic genetic algorithm implemented in Java, utilizing ArrayLists to perform random pairings.
 
@@ -20,6 +18,8 @@ Genetic algorithms are powerful optimization techniques inspired by the process 
 - Generates random pairings to explore solution spaces.
 - Easy to understand and modify for specific optimization problems.
 
+[![Java](https://img.shields.io/badge/Java-8%2B-brightgreen.svg)](https://www.java.com/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 
 
