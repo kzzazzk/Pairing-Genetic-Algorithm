@@ -9,8 +9,6 @@ This is a basic genetic algorithm implemented in Java, utilizing ArrayLists to p
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-
 
 ## Introduction
 
@@ -22,12 +20,6 @@ Genetic algorithms are powerful optimization techniques inspired by the process 
 - Generates random pairings to explore solution spaces.
 - Easy to understand and modify for specific optimization problems.
 
-## Getting Started
 
-To get started with this Basic Pairing Genetic Algorithm, follow these steps:
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/basic-pairing-genetic-algorithm.git
 
